@@ -1,7 +1,7 @@
 {
-  "name": "happy-Valentine",
+  "name": "happy-valentine",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1 align=\"center\">     Valentine's Wish </h1>",
   "main": "index.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
@@ -29,5 +29,7 @@
     "url": "https://github.com/faahim/happy-birthday/issues"
   },
   "homepage": "https://github.com/faahim/happy-birthday#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
